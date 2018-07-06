@@ -1,1 +1,1 @@
-Main=1;Updater=1;Settings=2;IO=1
+Main=1;Updater=1;Settings=1;IO=1
